@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "451480410957",
+    "firebase_url": "https://kortain-pos-lite.firebaseio.com",
+    "project_id": "kortain-pos-lite",
+    "storage_bucket": "kortain-pos-lite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451480410957:android:5e1c21ee0870a9b8",
+        "android_client_info": {
+          "package_name": "com.kortain.pos.domain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451480410957-bn26pqm24aimb7mdpspp8505htjs3f5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kortain.pos.domain",
+            "certificate_hash": "dbe098fb3e7567e3c9d95900b004a54974cf8b94"
+          }
+        },
+        {
+          "client_id": "451480410957-eeo01cam0kltobh1l39jvin9u4omvobl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "451480410957-eeo01cam0kltobh1l39jvin9u4omvobl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALX5-B3RnZqZIu6PfwSucsmWQmSoLZjds"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451480410957-eeo01cam0kltobh1l39jvin9u4omvobl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451480410957:android:835f9739c5366bfe",
+        "android_client_info": {
+          "package_name": "com.kortain.poslite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451480410957-nf28mdssvt5lab4nmefu083nn265qrq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kortain.poslite",
+            "certificate_hash": "dbe098fb3e7567e3c9d95900b004a54974cf8b94"
+          }
+        },
+        {
+          "client_id": "451480410957-eeo01cam0kltobh1l39jvin9u4omvobl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "451480410957-eeo01cam0kltobh1l39jvin9u4omvobl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALX5-B3RnZqZIu6PfwSucsmWQmSoLZjds"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451480410957-eeo01cam0kltobh1l39jvin9u4omvobl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
